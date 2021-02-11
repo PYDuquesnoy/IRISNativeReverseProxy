@@ -1,0 +1,13 @@
+C:\Dev\isc\IrisNative\bin\Debug\IrisNative.exe.config
+C:\Dev\isc\IrisNative\bin\Debug\IrisNative.exe
+C:\Dev\isc\IrisNative\bin\Debug\IrisNative.pdb
+C:\Dev\isc\IrisNative\bin\Debug\InterSystems.Data.IRISClient.dll
+C:\Dev\isc\IrisNative\bin\Debug\InterSystems.Data.IRISClient.xml
+C:\Dev\isc\IrisNative\obj\Debug\IrisNative.csprojAssemblyReference.cache
+C:\Dev\isc\IrisNative\obj\Debug\IrisNative.IrisNative.resources
+C:\Dev\isc\IrisNative\obj\Debug\IrisNative.Properties.Resources.resources
+C:\Dev\isc\IrisNative\obj\Debug\IrisNative.csproj.GenerateResource.cache
+C:\Dev\isc\IrisNative\obj\Debug\IrisNative.csproj.CoreCompileInputs.cache
+C:\Dev\isc\IrisNative\obj\Debug\IrisNative.csproj.CopyComplete
+C:\Dev\isc\IrisNative\obj\Debug\IrisNative.exe
+C:\Dev\isc\IrisNative\obj\Debug\IrisNative.pdb
